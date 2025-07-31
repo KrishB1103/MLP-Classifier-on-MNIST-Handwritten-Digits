@@ -5,8 +5,8 @@ This repository contains a simple yet effective implementation of a Multi-Layer 
 
 Input Layer (784 nodes)
 ->
-Hidden Layer 1 (e.g., 128 nodes, ReLU)
+Hidden Layer 1 (128 nodes, ReLU)
 ->
-Hidden Layer 2 (e.g., 64 nodes, ReLU)
+Hidden Layer 2 (64 nodes, ReLU)
 ->
 Output Layer (10 nodes for digits 0–9, Softmax)
